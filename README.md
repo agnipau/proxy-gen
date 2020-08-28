@@ -1,3 +1,3 @@
 # proxy-gen
 
-CLI to extract proxies from public sources
+CLI to extract proxies from public sources.
